@@ -1,0 +1,54 @@
+{
+    "id": "8bb35377-7f62-4479-9f46-c33e9f2c366e",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "home"
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "ad2ba25c-8dc8-48a7-bf2d-631871e69c04",
+            "label": "star",
+            "scope": "PUBLIC",
+            "texture": {
+                "key": "star"
+            },
+            "x": 111,
+            "y": 168
+        }
+    ],
+    "plainObjects": [
+        {
+            "id": "cdc918f9-59bc-4515-9e57-6b1920c28d71",
+            "type": "Keyboard.Key",
+            "label": "keyboard_key_up",
+            "keyCode": "UP"
+        },
+        {
+            "id": "9a9d4ba2-61be-4aaa-9bb2-4ef6c81d4a73",
+            "type": "Keyboard.Key",
+            "label": "keyboard_key_down",
+            "keyCode": "DOWN"
+        },
+        {
+            "id": "2a3c710c-644d-46eb-a2be-494f54c9f924",
+            "type": "Keyboard.Key",
+            "label": "keyboard_key_right",
+            "keyCode": "RIGHT"
+        },
+        {
+            "id": "10034e23-5967-443b-9bce-ce18aa6a921b",
+            "type": "Keyboard.Key",
+            "label": "keyboard_key_left",
+            "keyCode": "LEFT"
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

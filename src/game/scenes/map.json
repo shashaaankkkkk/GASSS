@@ -1,0 +1,23 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "GASSS/src/game/scenes/realShit (1).json",
+                "type": "tilemapTiledJSON",
+                "key": "realShit (1)"
+            },
+            {
+                "url": "GASSS/src/game/scenes/realShit (1).json",
+                "type": "tilemapTiledJSON",
+                "key": "realShit (1)_1"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

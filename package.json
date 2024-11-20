@@ -27,9 +27,14 @@
         "build-nolog": "vite build --config vite/config.prod.mjs"
     },
     "dependencies": {
+        "express": "^4.21.1",
         "phaser": "^3.87.0",
         "react": "^18.3.1",
-        "react-dom": "^18.3.1"
+        "react-dom": "^18.3.1",
+        "simple-peer": "^9.11.1",
+        "socket.io": "^4.8.1",
+        "socket.io-client": "^4.8.1",
+        "socketio": "^1.0.0"
     },
     "devDependencies": {
         "@types/react": "^18.3.3",
